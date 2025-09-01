@@ -34,7 +34,7 @@ My biggest hobby is **playing chess**! There's something beautiful about the str
 
 - 📧 **Email:** pedrojorgemorales6@gmail.com
 - 📱 **Phone:** +54 9 348 4672 262
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/pedro-jorge-morales-55b459234)
+- 💼 **LinkedIn:** www.linkedin.com/in/pedro-jorge-morales-55b459234
 - 🐙 **GitHub:** You're already here!
 
 ### 🤝 Let's Connect!
