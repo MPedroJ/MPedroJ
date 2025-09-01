@@ -1,102 +1,50 @@
-<h2 align="center"> Hi, I'm Piyush Bajaj 👋 <br/> </h2> 
+# Hi there, I'm Pedro Morales! 👋
 
-<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
+## 🚀 Fullstack Developer | Backend Specialist
 
+Welcome to my GitHub profile! I'm a passionate fullstack developer with a strong focus on backend development, always eager to build robust and scalable applications.
 
-<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
-  
-  
-## Tech Stack :computer:
+### 🛠️ Tech Stack
 
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
+**Backend & Database:**
+- 🏗️ **NestJS** - Building scalable server-side applications
+- 📘 **TypeScript** - Type-safe development
+- 🐘 **PostgreSQL** - Reliable data management
 
-<td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
-</td>
+**Frontend:**
+- ⚛️ **React** with **Vite** - Modern frontend development
+- 🟨 **JavaScript** - Dynamic web interactions
+- 🎨 **CSS & HTML** - Crafting beautiful user interfaces
 
-<td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
-</td>
-</tr>
+### 🎵 Coding Vibes
+I believe the best code is written with the right soundtrack! You'll often find me coding while listening to music - it keeps the creativity flowing and the bugs at bay. 🎧
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
-</td>
+### ♟️ When I'm Not Coding
+My biggest hobby is **playing chess**! There's something beautiful about the strategic thinking in chess that translates perfectly to problem-solving in development. Always up for a game! 
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
+### 📊 GitHub Stats
 
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
-</tr>
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MPedroJ&show_icons=true&theme=dark)
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
-</td>
+### 🔥 Most Used Languages
 
-<td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
-</td>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MPedroJ&layout=compact&theme=dark)
 
+### 📫 Get In Touch
 
+- 📧 **Email:** pedrojorgemorales6@gmail.com
+- 📱 **Phone:** +54 9 348 4672 262
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/pedro-jorge-morales-55b459234)
+- 🐙 **GitHub:** You're already here!
 
-<td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-</td>
-</tr>
+### 🤝 Let's Connect!
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
+- 💼 Open to collaboration on interesting projects
+- 🎯 Always learning and exploring new technologies
+- ♟️ Chess enthusiast - challenge me to a game!
 
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
+---
 
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
-</tr>
+*"Code is like chess - every move should be calculated, but sometimes the most beautiful solutions come from creative thinking."* ♟️💻
 
-</tbody>
-</table>
-
-____
-
-
-
-<h3 align="center"> Other Accounts 📫 </h3>
-<br />
-<p align="center">
-<a href="https://www.linkedin.com/in/piyushxbajaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/smrtdvlpr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-</p>
-
------
-Credits: [piyushxbajaj](https://github.com/piyushxbajaj)
-
-Last Edited on: 30/08/2020
+![Profile Views](https://komarev.com/ghpvc/?username=MPedroJ&color=blue)
