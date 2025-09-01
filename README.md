@@ -1,72 +1,85 @@
-<h2 align="center"> Hi, I'm Pedro Morales 👋 <br/> </h2> 
+<h1>Fran Espindola</h1>
+    <p>🌸 Full Stack Engineer passionate about creating beautiful and functional frontend experiences. Always seeking the perfect balance between aesthetics, user experience (UX/UI), and functional design.</p>
 
-<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
+  <div class="links">
+        <a href="#">Email</a>
+        <a href="#">LinkedIn</a>
+        <a href="#">GitHub</a>
+        <a href="#">YouTube Music Playlist</a>
+    </div>
 
+   <hr>
 
-<p align="center"> <samp>Hi, My name is Pedro Jorge Morales. I am a Full Stack Developer specialize on backend. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
-  
-  
-## Tech Stack :computer:
+   <h2>💜 About Me</h2>
+    <p>As a Full Stack developer, my heart truly beats for the frontend. I specialize in building engaging and intuitive user interfaces with modern frameworks like React, Vue, and Angular. My backend skills complement this passion, allowing me to deliver complete solutions.</p>
+    <p>I'm a strong believer in the power of open-source and always look for opportunities to contribute to impactful projects or start new ones, whether working solo or collaborating with others. My goal is to create things that make a real difference.</p>
+    <p>A keen eye for detail drives my work. I'm passionate about aesthetics, user experience (UX/UI), and ensuring a perfect balance in every design.</p>
 
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
+   <h2>🌸 In My Free Time</h2>
+    <p>When I'm not coding, I'm usually perfecting my skills by applying them in new ways. I also love to relax by playing games, listening to music (my playlist), and enjoying anime.</p>
 
-<td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
-</td>
-</tr>
+  <h2>🍣 My Tech Stack</h2>
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
-</tr>
+  <div class="tech-section">
+        <h3>Frontend</h3>
+        <p>HTML, CSS, JavaScript, TypeScript, React, Vue, Angular, Next.js, Astro</p>
+    </div>
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
-</td>
+   <div class="tech-section">
+        <h3>Backend</h3>
+        <p>Node.js, NestJS, C#, Java, .NET, Python, Django</p>
+    </div>
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
+  <div class="tech-section">
+        <h3>Databases</h3>
+        <p>MongoDB, Supabase, Firebase, MySQL, PostgreSQL</p>
+    </div>
 
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
+  <div class="tech-section">
+        <h3>Tools</h3>
+        <p>Figma, Photoshop, Docker, GitHub, Git</p>
+    </div>
 
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
-</tr>
+  <p>Made with 💖 and lots of ☕ by Esspindola</p>
 
-</tbody>
-</table>
+   <h1>Fran Espindola</h1>
+    <p>🌸 Full Stack Engineer passionate about creating beautiful and functional frontend experiences. Always seeking the perfect balance between aesthetics, user experience (UX/UI), and functional design.</p>
 
-____
+   <div class="links">
+        <a href="#">Email</a>
+        <a href="#">LinkedIn</a>
+        <a href="#">GitHub</a>
+        <a href="#">YouTube Music Playlist</a>
+    </div>
 
+   <hr>
 
+   <h2>💜 About Me</h2>
+    <p>As a Full Stack developer, my heart truly beats for the frontend. I specialize in building engaging and intuitive user interfaces with modern frameworks like React, Vue, and Angular. My backend skills complement this passion, allowing me to deliver complete solutions.</p>
+    <p>I'm a strong believer in the power of open-source and always look for opportunities to contribute to impactful projects or start new ones, whether working solo or collaborating with others. My goal is to create things that make a real difference.</p>
+    <p>A keen eye for detail drives my work. I'm passionate about aesthetics, user experience (UX/UI), and ensuring a perfect balance in every design.</p>
 
-<h3 align="center"> Other Accounts 📫 </h3>
-<br />
-<p align="center">
-<a href="www.linkedin.com/in/pedro-jorge-morales-55b459234"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <h2>🌸 In My Free Time</h2>
+    <p>When I'm not coding, I'm usually perfecting my skills by applying them in new ways. I also love to relax by playing games, listening to music (my playlist), and enjoying anime.</p>
 
-</p>
+   <h2>🍣 My Tech Stack</h2>
 
------
-Credits: [piyushxbajaj](https://github.com/piyushxbajaj)
+   <div class="tech-section">
+        <h3>Frontend</h3>
+        <p>HTML, CSS, JavaScript, TypeScript, React, Vue, Angular, Next.js, Astro</p>
+    </div>
 
-Last Edited on: 30/08/2020
+  <div class="tech-section">
+        <h3>Backend</h3>
+        <p>Node.js, NestJS, C#, Java, .NET, Python, Django</p>
+    </div>
+
+  <div class="tech-section">
+        <h3>Databases</h3>
+        <p>MongoDB, Supabase, Firebase, MySQL, PostgreSQL</p>
+    </div>
+
+   <div class="tech-section">
+        <h3>Tools</h3>
+        <p>Figma, Photoshop, Docker, GitHub, Git</p>
+    </div>
