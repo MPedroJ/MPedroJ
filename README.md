@@ -48,3 +48,58 @@ My biggest hobby is **playing chess**! There's something beautiful about the str
 *"Code is like chess - every move should be calculated, but sometimes the most beautiful solutions come from creative thinking."* ♟️💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MPedroJ&color=blue)
+
+
+---
+
+# ¡Hola! Soy Pedro Morales 👋
+
+## 🚀 Desarrollador Fullstack | Especialista en Backend
+
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador fullstack con un fuerte enfoque en el desarrollo backend, siempre motivado por crear aplicaciones sólidas y escalables.
+
+### 🛠️ Stack Tecnológico
+
+**Backend & Base de Datos:**
+- 🏗️ **NestJS** - Creación de aplicaciones del lado del servidor escalables  
+- 📘 **TypeScript** - Desarrollo con tipado seguro  
+- 🐘 **PostgreSQL** - Gestión de datos confiable  
+
+**Frontend:**
+- ⚛️ **React** con **Vite** - Desarrollo frontend moderno  
+- 🟨 **JavaScript** - Interacciones web dinámicas  
+- 🎨 **CSS & HTML** - Creando interfaces de usuario atractivas  
+
+### 🎵 Programando con Ritmo
+Creo que el mejor código se escribe con la banda sonora adecuada. Generalmente programo escuchando música, lo que mantiene la creatividad fluyendo y aleja los bugs. 🎧
+
+### ♟️ Cuando No Estoy Programando
+¡Mi mayor pasatiempo es **jugar ajedrez**! Hay algo fascinante en el pensamiento estratégico del ajedrez que se refleja perfectamente en la resolución de problemas en desarrollo. Siempre listo para una partida.  
+
+### 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub de Pedro](https://github-readme-stats.vercel.app/api?username=MPedroJ&show_icons=true&theme=dark)
+
+### 🔥 Lenguajes Más Usados
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MPedroJ&layout=compact&theme=dark)
+
+### 📫 Contáctame
+
+- 📧 **Correo:** pedrojorgemorales6@gmail.com  
+- 📱 **Teléfono:** +54 9 348 4672 262  
+- 💼 **LinkedIn:** www.linkedin.com/in/pedro-jorge-morales-55b459234  
+- 🐙 **GitHub:** ¡Ya estás aquí!  
+
+### 🤝 ¡Conectemos!
+
+- 💼 Abierto a colaborar en proyectos interesantes  
+- 🎯 Siempre aprendiendo y explorando nuevas tecnologías  
+- ♟️ Apasionado del ajedrez – ¡desafíame a una partida!  
+
+---
+
+*"El código es como el ajedrez: cada movimiento debe estar calculado, pero a veces las soluciones más bellas nacen de la creatividad."* ♟️💻
+
+![Visitas al Perfil](https://komarev.com/ghpvc/?username=MPedroJ&color=blue)
+
